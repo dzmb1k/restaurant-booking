@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#1a5c4b"/>
+  <text
+    x="16"
+    y="22"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="18"
+    font-weight="700"
+    fill="#e8b86d"
+  >T</text>
+  <path
+    fill="none"
+    stroke="#f5e6d3"
+    stroke-width="1.5"
+    stroke-linecap="round"
+    d="M8 11v9M8 11c0-1.4 1-2.2 1.8-2.2S11.6 9.6 11.6 11M24 11v9M24 11l2.2 4.5L24 15.5"
+  />
+</svg>

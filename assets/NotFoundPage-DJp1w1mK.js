@@ -1,0 +1,1 @@
+import{j as r,L as o}from"./index-B63gv8hL.js";function t(){return r.jsxs("div",{style:{padding:"2rem 0"},children:[r.jsx("h1",{style:{marginTop:0},children:"Страница не найдена"}),r.jsx("p",{style:{color:"var(--color-muted)"},children:"Проверьте адрес или вернитесь на главную."}),r.jsx(o,{to:"/",style:{color:"var(--color-accent)"},children:"На дашборд"})]})}export{t as default};

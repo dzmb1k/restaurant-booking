@@ -1,0 +1,1 @@
+const a={italian:"Итальянская",japanese:"Японская",russian:"Русская",french:"Французская",georgian:"Грузинская",chinese:"Китайская",mexican:"Мексиканская",indian:"Индийская"};function e(n){return n.imageUrl||n.photos[0]||""}export{a as C,e as r};
